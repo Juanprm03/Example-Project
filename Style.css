@@ -1,0 +1,28 @@
+body{
+    background-color:#EEEEEE ;
+    
+}
+
+h1, h2{
+    background-color: #638889;
+}
+
+a{
+    padding: 10px 20px;
+    background-color: #512B81;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+a :hover{
+    background-color:#000000 ;
+}
+.me{
+    text-align: center;
+    height:"200";
+}
+
+footer{
+    text-align: center;
+}
